@@ -1,0 +1,31 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Qiskit / IBM Quantum
+.qiskit/
+qiskit-ibm.json
+*.log
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Distribuição / build
+build/
+dist/
+*.egg-info/
